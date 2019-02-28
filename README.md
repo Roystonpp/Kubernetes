@@ -8,6 +8,7 @@ Make sure you have Kubernetes and Minikube installed on your local machine.
 Enter the following:
 ```
 Minikube start
+Kubectl get nodes
 ```
 
 ```
