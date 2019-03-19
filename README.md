@@ -1,5 +1,10 @@
 # Kubernetes
 Deploying Nginx
+
+# Prerequisite
+- Minikube
+
+# Instructions
 - 1
 First clone this repo or copy the deployment.yaml file
 
